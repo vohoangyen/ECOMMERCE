@@ -1,0 +1,1061 @@
+[
+    {
+        "id": 1,
+        "cateId": "shirts",
+        "img": [
+            "../../images/shirt/PATTERN_SHIRT.jpg"
+        ],
+        "name": "DIRTYCOINS LOGO PATTERN SHIRT",
+        "content":"Sản phẩm được làm từ vải kate nhập khẩu. Họa tiết được dệt từ cuộn vải, có độ bền cao. Form cơ bản.",
+        "price": 450000
+    },
+    {
+        "id": 2,
+        "cateId": "jackets",
+        "img": [
+            "../../images/jacket/Patched_Croptop_Jacket.jpg"
+        ],
+        "name": "Patched Croptop Jacket",
+        "content":"Áo khoác croptop. Oversize form. Logo coins 1.0 phản quang. Tag cao su được may ở hai cánh tay.",
+        "price": 450000
+    },
+    {
+        "id": 3,
+        "cateId": "pants",
+        "img":[
+            "../../images/pant/Plaid_Pants_In_Bred.jpg"
+        ],
+        "name": "Plaid Pants In Bred",
+        "content":"Quần được làm sản xuất từ khakhi. Logo được thêu ở phía túi trái.  Form oversize. Lưng quần bo vải gân kèm drawstring thun bên trong.",
+        "price": 450000
+    },
+    {
+        "id": 4,
+        "cateId": "pants",
+        "img": [
+            "../../images/pant/Dirtycoins_Sweat_Track_Pants.jpg"
+        ],
+        "name": "Dirtycoins Sweat Track Pants",
+        "content":"Sản phẩm 100% cotton. Hình in được in ở hai bên phía ngoài ống quần. Quần sở hữu dây rút được trang bị đầu mút dây. Lưng quần có dây chun co giãn",
+        "price": 440000
+    },
+    {
+        "id": 5,
+        "cateId": "hoodies",
+        "img":[
+            "./../../images/hoodies/HOODIE_BIG_LOGO_SS2020_(GREEN).jpg"
+        ],
+        "name": "HOODIE BIG LOGO SS2020 (GREEN)",
+        "content":"Form áo oversize. Phần hood có dây rút tùy chỉnh kích thước. Áo được trang bị túi kangaroo ở trước bụng. Họa tiết được thêu trực tiếp lên áo, có độ bền cao. Tà áo và cổ tay áo được bo vải gân",
+        "price": 549000
+    },
+    {
+        "id": 6,
+        "cateId": "wallets",
+        "img":[
+            "../../images/wallets/VOLCANO_LONG_WALLET.jpg"
+        ],
+        "name": "VOLCANO LONG WALLET",
+        "content": "Ví được làm từ vải canvas, kèm lót dù. Mặt ngoài phía trước ví sở hữu lớp Hologram PVC kèm tag nhựa. Ví đóng mở và sở hữu khóa dán velcro an toàn tiện lợi. 3 ngăn chính, trong đó có 1 ngăn được trang bị zipper YKK. 1 ngăn phụ có zipper YKK kèm 4 ngăn đựng thẻ.",
+        "price": 400000
+    },
+    {
+        "id": 7,
+        "cateId": "tshirts",
+        "img":[
+            "../../images/t-shirt/GRYNCH_T-SHIRT_(PINK).jpg"
+        ],
+        "name": "GRYNCH T-SHIRT (PINK)",
+        "content":"Sản phẩm 100% cotton. Form áo cơ bản.  Họa tiết được in lên trực tiếp sản phẩm.",
+        "price": 370000
+    },
+    {
+        "id": 8,
+        "cateId": "shorts",
+        "img":[
+            "../../images/short/Signature_Y_Short.jpg"
+        ],
+        "name": "Signature Y Short",
+        "content":"Form quần cơ bản. Dây quần có đầu dây bằng nhựa. 2 Túi ở phía trái phải quần.",
+        "price": 390000
+    },
+    {
+        "id": 9,
+        "cateId": "bags",
+        "img":[
+            "./../../images/bags/MULTICOLOR_SHOULDER_BAG_(BLUE).jpg"
+        ],
+        "name": "MULTICOLOR SHOULDER BAG (BLUE)",
+        "content":"Balo sản xuất từ vải bố và được lót dù. Có 1 ngăn lớn và 3 ngăn phụ. Khóa zipp YKK. Được trang bị thêm nắp đóng có khóa bấm. Được kèm theo 1 túi mini tiện dụng.",
+        "price": 190000
+    },    
+    {
+        "id": 10,
+        "cateId": "tshirts",
+        "img":[
+            "../../images/t-shirt/ACADEMY_DCS_T-SHIRT_(BLACK).jpg"
+        ] ,
+        "name": "ACADEMY DCS T-SHIRT (BLACK)",
+        "content":"Sản phẩm 100% cotton. Form áo cơ bản. Họa tiết được thêu trực tiếp lên mặt ngoài vải.",
+        "price": 370000
+    },
+    {
+        "id": 11,
+        "cateId": "tshirts",
+        "img": [
+            "../../images/t-shirt/BLEACH_YOUR_BRAIN_OUT_T-SHIRT.jpg"
+        ],
+        "name": "BLEACH YOUR BRAIN OUT T-SHIRT",
+        "content":"Sản phẩm 100% cotton. Họa tiết tie-dye được tẩy từ cuộn vải. Hình in hologram được in ở ngực và lưng áo. Tag phụ được may ở dưới góc tà áo.",
+        "price": 350000
+    },
+    {
+        "id": 12,
+        "cateId": "bags",
+        "img":[
+            "../../images/bags/DIRTY_COINS_ANGEL_BACKPACK.jpg"
+        ],
+        "name": "DIRTY COINS ANGEL BACKPACK",
+        "content":"Mặt ngoài balo được làm từ vải bố, kèm với phía trong được lót dù. Mặt trước balo được in hình, có độ bền cao. Balo có 1 ngăn chính và 1 ngăn phụ phía mặt trước balo. Hai ngăn đựng bình nước tiện dụng ở hai bên hông balo. Kích thước balo: Dài x Rộng x Cao: 34cm x 17cm x 43cm.",
+        "price": 290000
+    },
+    {
+        "id": 13,
+        "cateId": "bags",
+        "img": [
+            "../../images/bags/fluffly_minibag.jpg",
+            "../../images/bags/Minibag_1.webp",
+            "../../images/bags/Minibag_2.webp",
+            "../../images/bags/Minibag_3.webp",
+            "../../images/bags/Minibag_4.webp"
+        ],
+        "name": "fluffly minibag",
+        "content":"Túi đeo chéo nhỏ xinh với lớp lông siêu xịn mịn và vô cùng tiện dụng",
+        "price": 190000
+    },
+    {
+        "id": 14,
+        "cateId": "hats",
+        "img":[
+            "../../images/hats/Cap_SCHDTX.jpg",
+            "../../images/hats/SCHDTX.webp",
+            "../../images/hats/SCHDTX_2.webp"
+        ],
+        "name": "Cap SCHDTX",
+        "content":"Toàn bộ phần thêu sử dụng chỉ ánh vàng và ánh bạc Metallic. Sử dụng vải cotton 14 với phối màu Off-white. Form nón Asia Standard 6 múi 57cm (± 3 cm) giúp ôm khít và tăng giảm dễ dàng với từng kiểu đầu người đội.",
+        "price": 180000
+    },
+    {
+        "id": 15,
+        "cateId": "hoodies",
+        "img":[
+            "../../images/hoodies/Shalala_Ocean_Hoodie.webp",
+            "../../images/hoodies/Shalala_1.webp",
+            "../../images/hoodies/Shalala_2.webp",
+            "../../images/hoodies/Shalala_3.webp"
+        ] ,
+        "name": "Shalala Ocean Hoodie",
+        "content":"Chất liệu vải nỉ cào với chỉ số chống tia UV là 115+ cùng độ bền màu, mềm mịn và chống xù lông.",
+        "price": 440000
+    },
+    {
+        "id": 16,
+        "cateId": "shirts",
+        "img":[
+            "../../images/shirt/ACADEMY_DCS_UNIFORM_SHIRT.jpg"
+        ] ,
+        "name": "ACADEMY DCS UNIFORM SHIRT",
+        "content":"Sản phẩm được gia công từ vải Kate nhập khẩu. Form áo cơ bản. Họa tiết được thêu trực tiếp lên sản phẩm. Cổ áo sở hữu lót giữ form.",
+        "price": 450000
+    },
+    {
+        "id": 17,
+        "cateId": "shirts",
+        "img":[
+            "../../images/shirt/ACADEMY_UNIFORM_LONG_SLEEVE_SHIRT.jpg"
+        ] ,
+        "name": "ACADEMY UNIFORM LONG SLEEVE SHIRT",
+        "content":"Form cơ bản. Vải kate nhập khẩu thoáng mát. Họa tiết được thêu vào áo.",
+        "price": 500000
+    },
+    {
+        "id": 18,
+        "cateId": "shirts",
+        "img":[
+            "../../images/shirt/Ivory_14th.webp",
+            "../../images/shirt/Ivory_1.webp",
+            "../../images/shirt/Ivory_2.webp",
+            "../../images/shirt/Ivory_3.webp",
+            "../../images/shirt/Ivory_4.webp",
+            "../../images/shirt/Ivory_5.webp",
+            "../../images/shirt/Ivory_6.webp"
+        ] ,
+        "name": "Ivory 14th",
+        "content":"Sơ mi khử mùi cơ thể tại 2 vùng: nách và cổ. Sử dụng công nghệ khử mùi của tập đoàn Shindo Nhật Bản. Vải dày, chống tia cực tím tuyệt đối, hạn chế nhăn tối đa. Tất cả đường may bên trong đều cuốn sườn (một kỹ thuật may đặc biệt), nên không lộ bất kì đường vắt sổ nào.",
+        "price": 490000
+    },
+    {
+        "id": 19,
+        "cateId": "shirts",
+        "img":[
+            "../../images/shirt/Linen_shirt.jpg",
+            "../../images/shirt/Linen_1.webp",
+            "../../images/shirt/Linen_2.jpg",
+            "../../images/shirt/Linen_3.jpg",
+            "../../images/shirt/Linen_4.jpg"
+        ] ,
+        "name": "Linen shirt",
+        "content":"Được trang bị dây khử mùi vùng da dưới cánh tay từ tập đoàn Shindo - Nhật.",
+        "price": 390000
+    },
+    {
+        "id": 20,
+        "cateId": "shirts",
+        "img":[
+            "../../images/shirt/MIGHTY_TIGERS_SHIRT.jpg"
+        ] ,
+        "name": "MIGHTY TIGERS SHIRT",
+        "content":"Áo vải lụa rũ form cơ bản. Áo cổ 'V' cài khuy. Họa tiết in vào áo có độ bền cao.",
+        "price": 495000
+    },
+    {
+        "id": 21,
+        "cateId": "tshirts",
+        "img":[
+            "../../images/t-shirt/DIRTYCOINS_BASIC_T-SHIRTS_SS1.jpg"
+        ] ,
+        "name": "DIRTYCOINS BASIC T-SHIRTS SS1",
+        "content":"100% cotton. Form áo oversize. Logo cao su được thêu. Họa tiết lưng được in.",
+        "price": 280000
+    },
+    {
+        "id": 22,
+        "cateId": "tshirts",
+        "img":[
+            "../../images/t-shirt/DIRTYCOINS_BASIC_T-SHIRTS_SS2_(PINK).jpg"
+        ] ,
+        "name": "DIRTYCOINS BASIC T-SHIRTS SS2 (PINK)",
+        "content":"100% cotton. Form áo oversize. Logo cao su được thêu. Họa tiết lưng được in.",
+        "price": 300000
+    },
+    {
+        "id": 23,
+        "cateId": "tshirts",
+        "img":[
+            "../../images/t-shirt/DIRTYCOINS_BASIC_T-SHIRTS_SS2_(PURPLE).jpg"
+        ] ,
+        "name": "DIRTYCOINS BASIC T-SHIRTS SS2 (PURPLE)",
+        "content":"100% cotton. Form áo oversize. Logo cao su được thêu. Họa tiết lưng được in.",
+        "price": 300000
+    },
+    {
+        "id": 24,
+        "cateId": "tshirts",
+        "img":[
+            "../../images/t-shirt/DIRTYCOINS_BASIC_T-SHIRTS_SS2_(RED).jpg"
+        ] ,
+        "name": "DIRTYCOINS BASIC T-SHIRTS SS2 (RED)",
+        "content":"100% cotton. Form áo oversize. Logo cao su được thêu. Họa tiết lưng được in.",
+        "price": 300000
+    },
+    {
+        "id": 25,
+        "cateId": "tshirts",
+        "img":[
+            "../../images/t-shirt/DIRTYCOINS_BASIC_T-SHIRTS_SS2_(YELLOW).jpg"
+        ] ,
+        "name": "DIRTYCOINS BASIC T-SHIRTS SS2 (YELLOW)",
+        "content":"100% cotton. Form áo oversize. Logo cao su được thêu. Họa tiết lưng được in.",
+        "price": 300000
+    },
+    {
+        "id": 26,
+        "cateId": "tshirts",
+        "img":[
+            "../../images/t-shirt/DIRTYCOINS_CUPID_CROPTOP_(RED).jpg"
+        ] ,
+        "name": "DIRTYCOINS CUPID CROPTOP (RED)",
+        "content":"Áo croptop cho nữ. Form áo cơ bản. Hình và họa tiết được in phía trước áo.",
+        "price": 300000
+    },
+    {
+        "id": 27,
+        "cateId": "tshirts",
+        "img":[
+            "../../images/t-shirt/DIRTYCOINS_CUPID_CROPTOP_(WHITE).jpg"
+        ] ,
+        "name": "DIRTYCOINS CUPID CROPTOP (WHITE)",
+        "content":"Áo croptop cho nữ. Form áo cơ bản. Hình và họa tiết được in phía trước áo.",
+        "price": 300000
+    },
+    {
+        "id": 28,
+        "cateId": "tshirts",
+        "img":[
+            "../../images/t-shirt/DIRTYCOINS_T-SHIRTS_(PINK).jpg"
+        ] ,
+        "name": "DIRTYCOINS T-SHIRTS (PINK)",
+        "content":"Form áo oversize. Áo được làm từ 100% cottons. Họa tiết được in ở phía trước ngực và sau áo. Có tag áo được in ở cuối thân áo.",
+        "price": 300000
+    },
+    {
+        "id": 29,
+        "cateId": "tshirts",
+        "img":[
+            "../../images/t-shirt/Green_Galaxy_Tie-Dye_T-shirt.jpg"
+        ] ,
+        "name": "Green Galaxy Tie-Dye T-shirt",
+        "content":"Sản phẩm 100% cotton. Họa tiết tie-dye được tẩy từ cuộn vải. Logo hologram được in ở ngực và lưng áo. Tag phụ được may ở dưới góc tà áo.",
+        "price": 450000
+    },
+    {
+        "id": 30,
+        "cateId": "tshirts",
+        "img":[
+            "../../images/t-shirt/GRYNCH_T-SHIRT_(BLUE).jpg"
+        ] ,
+        "name": "GRYNCH T-SHIRT (BLUE)",
+        "content":"Sản phẩm 100% cotton. Form áo cơ bản. Họa tiết được in lên trực tiếp sản phẩm.",
+        "price": 370000
+    },
+    {
+        "id": 31,
+        "cateId": "tshirts",
+        "img":[
+            "../../images/t-shirt/GRYNCH_T-SHIRT_(WHITE).jpg"
+        ] ,
+        "name": "GRYNCH T-SHIRT (WHITE)",
+        "content":"Sản phẩm 100% cotton. Form áo cơ bản. Họa tiết được in lên trực tiếp sản phẩm.",
+        "price": 370000
+    },
+    {
+        "id": 32,
+        "cateId": "tshirts",
+        "img":[
+            "../../images/t-shirt/HOLOGRAM_JUPITER_TIE-DYE_T-SHIRT.jpg"
+        ] ,
+        "name": "HOLOGRAM JUPITER TIE-DYE T-SHIRT",
+        "content":"Sản phẩm 100% cotton. Họa tiết tie-dye được tẩy từ cuộn vải. Logo phản quang hologram được in ở ngực và lưng áo. Tag phụ được may ở dưới góc tà áo.",
+        "price": 450000
+    },
+    {
+        "id": 33,
+        "cateId": "tshirts",
+        "img":[
+            "../../images/t-shirt/Hologram_Mercury_Tie-Dye_T-Shirt.jpg"
+        ] ,
+        "name": "Hologram Mercury Tie-Dye T-Shirt",
+        "content":"Sản phẩm 100% cotton. Họa tiết tie-dye được tẩy từ cuộn vải. Logo phản quang hologram được in ở ngực và lưng áo. Tag phụ được may ở dưới góc tà áo.",
+        "price": 450000
+    },
+    {
+        "id": 34,
+        "cateId": "tshirts",
+        "img":[
+            "../../images/t-shirt/HOLOGRAM_MOON_TIE-DYE_T-SHIRT.jpg"
+        ] ,
+        "name": "HOLOGRAM MOON TIE-DYE T-SHIRT",
+        "content":"Sản phẩm 100% cotton. Họa tiết tie-dye được tẩy từ cuộn vải. Logo phản quang hologram được in ở ngực và lưng áo. Tag phụ được may ở dưới góc tà áo.",
+        "price": 450000
+    },
+    {
+        "id": 35,
+        "cateId": "tshirts",
+        "img":[
+            "../../images/t-shirt/Season_Of_Youth_Tee.webp",
+            "../../images/t-shirt/Season_1.jpeg",
+            "../../images/t-shirt/Season_2.jpeg"
+        ] ,
+        "name": "Season Of Youth Tee",
+        "content":"Sản phẩm 100% cotton. Form áo cơ bản. Họa tiết được in lên trực tiếp sản phẩm.",
+        "price": 289000
+    },
+    {
+        "id": 36,
+        "cateId": "tshirts",
+        "img":[
+            "../../images/t-shirt/SPACE_PROGRAM_T-SHIRT.jpg"
+        ] ,
+        "name": "SPACE PROGRAM T-SHIRT",
+        "content":"Sản phẩm 100% cotton. Form áo cơ bản. Họa tiết được in lên trực tiếp sản phẩm.",
+        "price": 400000
+    },
+    {
+        "id": 37,
+        "cateId": "tshirts",
+        "img":[
+            "../../images/t-shirt/Straight_1.webp",
+            "../../images/t-shirt/Straight_2.webp",
+            "../../images/t-shirt/Straight_3.webp",
+            "../../images/t-shirt/Straight_Outta_Viet Nam.webp"
+        ] ,
+        "name": "Straight Outta",
+        "content":"Dệt theo kĩ thuật Knit Jersey với thành phần cotton 94% đan 6% sợi spandex, giúp thấm hút tốt, đứng form, hạn chế nhăn và co dãn được 4 chiều. ",
+        "price": 319000
+    },
+    {
+        "id": 38,
+        "cateId": "wallets",
+        "img":[
+            "../../images/wallets/CROCS_LONG_WALLET.jpg"
+        ] ,
+        "name": "CROCS LONG WALLET",
+        "content":"Ví tiền dài đóng mở. Mặt ngoài ví với logo được ép chìm và bề mặt được ép nhiệt tạo hiệu ứng. Ví có 2 ngăn lớn, 9 khe đựng thẻ và 2 ngăn đựng giấy tờ.",
+        "price": 150000
+    },
+    {
+        "id": 39,
+        "cateId": "wallets",
+        "img":[
+            "../../images/wallets/DIRTYCOINS_LOGO_LONG_WALLET.jpg"
+        ] ,
+        "name": "DIRTYCOINS LOGO LONG WALLET",
+        "content":"Ví tiền dài đóng mở. Mặt ngoài sản phẩm được khắc laser họa tiết Shuriken. Ví có 2 ngăn lớn, 5 khe đựng thẻ và 2 ngăn đựng giấy tờ.",
+        "price": 225000
+    },
+    {
+        "id": 40,
+        "cateId": "wallets",
+        "img":[
+            "../../images/wallets/DIRTYCOINS_WALLY_WALLET.jpg"
+        ] ,
+        "name": "DIRTYCOINS WALLY WALLET",
+        "content":"Ví được làm từ vải canvas. Lót bên trong ví được sử dụng từ dù và vải canvas. Logo Y được in trực tiếp lên bề mặt. Ví đóng mở có khóa bấm an toàn. Ví có 2 ngăn chính, có khóa kéo cho 1 ngăn. Số lượng ngăn đựng thẻ lên đến 8 ngăn.",
+        "price": 290000
+    },
+    {
+        "id": 41,
+        "cateId": "wallets",
+        "img":[
+            "../../images/wallets/SHURIKEN_WALLET.jpg"
+        ] ,
+        "name": "SHURIKEN WALLET",
+        "content":"Ví tiền dài đóng mở. Mặt ngoài sản phẩm được khắc laser họa tiết Shuriken. Ví có 2 ngăn lớn, 5 khe đựng thẻ và 2 ngăn đựng giấy tờ.",
+        "price": 190000
+    },
+    {
+        "id": 42,
+        "cateId": "wallets",
+        "img":[
+            "../../images/wallets/SIGNATURE_Y_ZIPPED_WALLET.jpg"
+        ] ,
+        "name": "SIGNATURE Y ZIPPED WALLET",
+        "content":"Ví được gia công từ da P.U nhập khẩu. Lót bên trong ví được sử dụng từ dù và da P.U. Logo Y được khắc laser. Zipper vòng quanh miệng ví. 1 ngăn phụ bên trong có khóa zipper. Số lượng ngăn đựng lên đến 12 ngăn.",
+        "price": 280000
+    },
+    {
+        "id": 43,
+        "cateId": "shorts",
+        "img":[
+            "../../images/short/Basic_shorts.webp",
+            "../../images/short/Basic_1.webp",
+            "../../images/short/Basic_2.webp",
+            "../../images/short/Basic_3.webp",
+            "../../images/short/Basic_4.webp"
+        ] ,
+        "name": "BASIC SHORT",
+        "content":"Sử dụng vải thun 4 chiều 230gsm co dãn thoải mái. Hai lớp vải giúp đứng form. Chống UV 50+. Độ cầm màu với ánh sáng và giặt cấp 4-5. Không tồn dư hóa chất gây ung thư. Có túi ẩn với dây khóa YKK bên phải.",
+        "price": 349000
+    },
+    {
+        "id": 44,
+        "cateId": "shorts",
+        "img":[
+            "../../images/short/Dirtycoins_Sweat_Shorts_(Black).jpg"
+        ] ,
+        "name": "Dirtycoins Sweat Shorts (Black)",
+        "content":"Quần form cơ bản. 100% cotton. Quần được trang bị túi ở hai bên hông quần.",
+        "price": 390000
+    },
+    {
+        "id": 45,
+        "cateId": "shorts",
+        "img":[
+            "../../images/short/The_Path.webp",
+            "../../images/short/Path_1.webp",
+            "../../images/short/Path_2.webp",
+            "../../images/short/Path_3.jpg",
+            "../../images/short/Path_4.jpg"
+        ] ,
+        "name": "The bath",
+        "content":" Sử dụng vải Khaki cotton sớ vừa, đảm bảo độ dày cho các hoạt động ngoài trời nhưng vẫn đủ mềm để không gây khó chịu khi sử dụng. Túi khoá kéo YKK ở hông phải - không còn việc rớt điện thoại hoặc đồ vật quan trọng.",
+        "price": 390000
+    },
+    {
+        "id": 46,
+        "cateId": "shorts",
+        "img":[
+            "../../images/short/Plump_Shorts.jpg"
+        ] ,
+        "name": "Plump Shorts",
+        "content":"Quần form cơ bản. 100% cotton. Quần được trang bị túi ở hai bên hông quần.",
+        "price": 250000
+    },
+    {
+        "id": 47,
+        "cateId": "shorts",
+        "img":[
+            "../../images/short/Signature_Y Short_(WHITE).jpg"
+        ] ,
+        "name": "Signature Y Short (WHITE)",
+        "content":"Form quần cơ bản. Dây quần có đầu dây bằng nhựa. 2 Túi ở phía trái phải quần. 1 Túi sau có zipper. Tag cao su được may ở phần ống quần. Bên trong có lót một lớp vải lưới tăng độ thoáng mát và độ giữ form.",
+        "price": 390000
+    },
+    {
+        "id": 48,
+        "cateId": "shorts",
+        "img":[
+            "../../images/short/Westside.jpg",
+            "../../images/short/Westside_1.webp",
+            "../../images/short/Westside_2.webp",
+            "../../images/short/Westside_3.webp",
+            "../../images/short/Westside_4.webp",
+            "../../images/short/Westside_5.webp",
+            "../../images/short/Westside_6.webp"
+        ] ,
+        "name": "Westside",
+        "content":"Sử dụng vải Khaki cotton sớ vừa, đảm bảo độ dày cho các hoạt động ngoài trời nhưng vẫn đủ mềm để không gây khó chịu khi sử dụng. Túi khoá kéo YKK ở hông phải - không còn việc rớt điện thoại hoặc đồ vật quan trọng. Hoạ tiết Westside: in decal phản quang Reflective Silver từ đối tác Siser - Italia. Tất cả đường may sử dụng chỉ cotton Coats - thương hiệu chỉ của Anh và được sản xuất tại Việt Nam.",
+        "price": 390000
+    },
+    {
+        "id": 49,
+        "cateId": "shorts",
+        "img":[
+            "../../images/short/'Yoshino'_Dragon_Shorts.jpg"
+        ] ,
+        "name": "Westside",
+        "content":"Quần dù ngắn. Hình ảnh được in ở ống quần bên trái. Lưng quần được may bằng vải gân có dây rút. Dây rút quần có sở hữu đầu mút.",
+        "price": 400000
+    },
+    {
+        "id": 50,
+        "cateId": "pants",
+        "img":[
+            "../../images/pant/ACADEMY_UNIFORM_PANTS.jpg"
+        ] ,
+        "name": "ACADEMY UNIFORM PANTS",
+        "content":"Quần chất liệu khaki. Điển nhấm trên quần chất liệu cavas được may trục tiếp vào quần. Originals form.",
+        "price": 500000
+    },
+    {
+        "id": 51,
+        "cateId": "jackets",
+        "img":[
+            "../../images/jacket/Advanced AIR-tech jacket.jpg",
+            "../../images/jacket/Advanced_1.webp",
+            "../../images/jacket/Advanced_2.webp",
+            "../../images/jacket/Advanced_3.webp",
+            "../../images/jacket/Advanced_4.webp",
+            "../../images/jacket/Advanced_5.webp",
+            "../../images/jacket/Advanced_6.webp",
+            "../../images/jacket/Advanced_7.webp",
+            "../../images/jacket/Advanced_8.webp"
+        ] ,
+        "name": "Advanced AIR-tech jacket",
+        "content":"Hệ thống 4 túi: hai túi hông thường + 1 túi ẩn với dây khóa bên hông trái + 1 túi bí mật bên trong ngực trái. Chất liệu vải: Polyester fiber. Toàn bộ dây khóa sử dụng YKK zip. Cổ tay hai thành phần: thun co giãn và đai gài velcro - đảm bảo ôm vừa vặn mọi kích thước cổ tay.",
+        "price": 479000
+    },
+    {
+        "id": 52,
+        "cateId": "jackets",
+        "img":[
+            "../../images/jacket/ALL_OVER_PRINT_DALAT_COACH_JACKET.jpg"
+        ] ,
+        "name": "ALL OVER PRINT DALAT COACH JACKET",
+        "content":"Form áo cơ bản. Áo trang bị full khóa kéo zipper. Phần nón của áo được trang bị dây rút tùy chỉnh độ lớn nhỏ. Cổ tay áo có miếng cài velcro tùy chỉnh kích thước.",
+        "price": 550000
+    },
+    {
+        "id": 53,
+        "cateId": "jackets",
+        "img":[
+            "../../images/jacket/DIRTYCOINS_EYES-CREAM_JACKET.jpg"
+        ] ,
+        "name": "DIRTYCOINS EYES-CREAM JACKET",
+        "content":"Áo được gia công bằng chất liệu dù. Zipper được trải dài từ tà áo đến hết cổ áo. Tay áo có khóa bấm tùy chỉnh độ rộng. Họa tiết được in ở trước ngực, cổ tay áo và lưng áo.",
+        "price": 490000
+    },
+    {
+        "id": 54,
+        "cateId": "jackets",
+        "img":[
+            "../../images/jacket/Donut_Double_Sided_Jacket.jpg"
+        ] ,
+        "name": "Donut Double Sided Jacket",
+        "content":"Áo được làm hoàn toàn từ dù. Áo Hai mặt (Xanh da trời và Tím). Có khóa zipper 2 mặt.  Hình in của hai mặt như nhau.",
+        "price": 650000
+    },
+    {
+        "id": 55,
+        "cateId": "jackets",
+        "img":[
+            "../../images/jacket/Monarch_All_Over_Print Jacket.jpg"
+        ] ,
+        "name": "Monarch All Over Print Jacket",
+        "content":"Jacket chất liệu vải dù. Form oversize. Khóa áo được sử dụng nút bấm tiện dụng. Áo có hai túi ở hai bên thân áo.",
+        "price": 650000
+    },
+    {
+        "id": 56,
+        "cateId": "jackets",
+        "img":[
+            "../../images/jacket/OLOGRAM_ZIP_JACKETS.jpg"
+        ] ,
+        "name": "HOLOGRAM ZIP JACKETS",
+        "content":"Chất liệu dù. Có zipper từ tà áo đến cổ áo, kèm lớp che có nút bấm. Hình in phản quang. Ống tay áo có nút bấm tùy chỉnh ôm. Áo có hood được trang bị dây rút. ",
+        "price": 620000
+    },
+    {
+        "id": 57,
+        "cateId": "jackets",
+        "img":[
+            "../../images/jacket/SIGNATURE_Y_ZIP_COACH_JACKET.jpg"
+        ] ,
+        "name": "SIGNATURE Y ZIP COACH JACKET",
+        "content":"Chất liệu dù. Có zipper từ tà áo đến cổ áo, kèm lớp che có nút bấm. Ống tay áo có nút bấm tùy chỉnh ôm.  Áo có hood được trang bị dây rút.",
+        "price": 620000
+    },
+    {
+        "id": 58,
+        "cateId": "jackets",
+        "img":[
+            "../../images/jacket/SIGNATURE_Y_ZIP_COACH_JACKET_(YELLOW).jpg"
+        ] ,
+        "name": "SIGNATURE Y ZIP COACH JACKET (YELLOW)",
+        "content":"Chất liệu dù. Có zipper từ tà áo đến cổ áo, kèm lớp che có nút bấm. Ống tay áo có nút bấm tùy chỉnh ôm.  Áo có hood được trang bị dây rút.",
+        "price": 620000
+    },
+    {
+        "id": 59,
+        "cateId": "jackets",
+        "img":[
+            "../../images/jacket/TRACK_JACKET.jpg"
+        ] ,
+        "name": "TRACK JACKET",
+        "content":"Sản phẩm được làm từ dù. Logo được in chạy dọc tay áo. Tà áo có dây rút tùy chính độ ôm. Full zipped. Ống tay áo có dây thun co giãn.",
+        "price": 450000
+    },
+    {
+        "id": 60,
+        "cateId": "jackets",
+        "img":[
+            "../../images/jacket/Tie-dye_windbreaker_jacket.jpg",
+            "../../images/jacket/windbreaker_1.webp",
+            "../../images/jacket/windbreaker_2.webp",
+            "../../images/jacket/windbreaker_3.webp",
+            "../../images/jacket/windbreaker_4.jpg",
+            "../../images/jacket/windbreaker_5.webp",
+            "../../images/jacket/windbreaker_6.webp",
+            "../../images/jacket/windbreaker_7.webp",
+            "../../images/jacket/windbreaker_8.webp"
+        ] ,
+        "name": "Tie-dye windbreaker jacket",
+        "content":"Chống gió. Hoạ tiết tie-dye. Khoá YKK. Chất liệu: sợi Poly. Túi ngực trong suốt với chất liệu TPU. Lớp lót lưới đặc biệt cho cảm giác trên da tốt hơn.",
+        "price": 439000
+    },
+    {
+        "id": 61,
+        "cateId": "hoodies",
+        "img":[
+            "../../images/hoodies/Academy_Zipped_Hoodie_(Black).jpg"
+        ] ,
+        "name": "Academy Zipped Hoodie (Black)",
+        "content":"Áo được sản xuất từ nỉ bông nhập khẩu.  Áo Form slim và tà sau dài. Họa tiết trên sản phẩm được thêu trực tiếp vào sản phẩm",
+        "price": 650000
+    },
+    {
+        "id": 62,
+        "cateId": "hoodies",
+        "img":[
+            "../../images/hoodies/BREAKING_NEWS_HD .jpg"
+        ] ,
+        "name": "BREAKING NEWS HD ",
+        "content":"Áo được sản xuất từ sợi nỉ bông. Form áo cơ bản với tà áo được trang bị dây rút tùy chỉnh độ co giãn. Túi áo được trang bị hai bên thân áo. Tay áo được bo viền bằng vải gân. ",
+        "price": 600000
+    },
+    {
+        "id": 63,
+        "cateId": "hoodies",
+        "img":[
+            "../../images/hoodies/DIRTY_COINS_ANGEL_HOODIE.jpg"
+        ] ,
+        "name": "DIRTY COINS ANGEL HOODIE",
+        "content":"Áo được sản xuất từ sợi nỉ bông. Form áo cơ bản với tà áo được trang bị dây rút tùy chỉnh độ co giãn. Túi áo được trang bị hai bên thân áo. Tay áo được bo viền bằng vải gân.",
+        "price": 550000
+    },
+    {
+        "id": 64,
+        "cateId": "hoodies",
+        "img":[
+            "../../images/hoodies/GRYNCH_HOODIE_(RED).jpg"
+        ] ,
+        "name": "GRYNCH HOODIE (RED)",
+        "content":"Áo được sản xuất từ sợi nỉ bông. Form áo cơ bản với tà áo được trang bị dây rút tùy chỉnh độ co giãn. Túi áo được trang bị hai bên thân áo. Tay áo được bo viền bằng vải gân.",
+        "price": 600000
+    },
+    {
+        "id": 65,
+        "cateId": "hoodies",
+        "img":[
+            "../../images/hoodies/Hoodie_Donut_2_(Blue).jpg"
+        ] ,
+        "name": "Hoodie Donut 2 (Blue)",
+        "content":"Form áo oversize.Phần nón áo được trang bị dây rút. Họa tiết được in ở mặt trước và mặt sau. Áo có 2 túi ở hai bên hông áo.  Ống tay có khóa dán velcro và được thêu logo.",
+        "price": 550000
+    },
+    {
+        "id": 66,
+        "cateId": "hoodies",
+        "img":[
+            "../../images/hoodies/HOODIE_HOLOGRAM.jpg"
+        ] ,
+        "name": "HOODIE HOLOGRAM",
+        "content":"Form áo cơ bản. Phần nón áo có dây rút tùy chỉnh kích thước. Logo hologram được in ở ngực và lưng áo. Tag phụ được may ở dưới góc tà áo. Tà áo và cổ tay áo được bo vải gân.",
+        "price": 550000
+    },
+    {
+        "id": 67,
+        "cateId": "hoodies",
+        "img":[
+            "../../images/hoodies/Hoodie_SCHDTX.png",
+            "../../images/hoodies/SCHDTX_1.webp",
+            "../../images/hoodies/SCHDTX_2.jpg",
+            "../../images/hoodies/SCHDTX_3.webp"
+        ] ,
+        "name": "Hoodie SCHDTX",
+        "content":"Khả năng bảo vệ khỏi tia UV của vải theo phương pháp thử EN 13758-1:2001 là 115. Chỉ số UPF của vải khi trên 50 có nghĩa là chỉ cho phép 2% số tia UVA và UVB xuyên qua và được gán khả năng bảo vệ tuyệt vời.",
+        "price": 529000
+    },
+    {
+        "id": 68,
+        "cateId": "hoodies",
+        "img":[
+            "../../images/hoodies/Sunny_Yellow.png"
+        ] ,
+        "name": "Sunny Yellow",
+        "content":"Mặc được vào mùa hè (hoặc những ngày oi bức như này). Chống tia cực tím lên đến UPF 50+. Dây khoá YKK kéo đến sát nón. Chi tiết in nhũ bạc. Túi ẩn bên trong được may kết hợp với đường đánh bọ túi ngoài.",
+        "price": 489000
+    },
+    {
+        "id": 69,
+        "cateId": "hoodies",
+        "img":[
+            "../../images/hoodies/Unicorn_Hoodie_(Black).jpg"
+        ] ,
+        "name": "Unicorn Hoodie (Black)",
+        "content":"Áo được sản xuất từ sợi nỉ bông. Form áo cơ bản với tà áo được trang bị dây rút tùy chỉnh độ co giãn. Túi áo được trang bị hai bên thân áo. Tay áo được bo viền bằng vải gân.",
+        "price": 350000
+    },
+    {
+        "id": 70,
+        "cateId": "hoodies",
+        "img":[
+            "../../images/hoodies/Zipped_Hoodie.png",
+            "../../images/hoodies/Zipped_1.jpeg",
+            "../../images/hoodies/Zipped_2.webp",
+            "../../images/hoodies/Zipped_3.webp",
+            "../../images/hoodies/Zipped_4.webp"
+        ] ,
+        "name": "Zipped Hoodie",
+        "content":"Mặc được vào mùa hè. Chống tia cực tím lên đến UPF 50+. Dây khoá YKK kéo đến sát nón. Túi ẩn bên trong được may kết hợp với đường đánh bọ túi ngoài.",
+        "price": 489000
+    },
+    {
+        "id": 71,
+        "cateId": "hats",
+        "img":[
+            "../../images/hats/Blank_cap.jpg",
+            "../../images/hats/Blank_1.webp",
+            "../../images/hats/Blank_2.webp"
+        ] ,
+        "name": "Blank cap",
+        "content":"Trắng. Tối giản. Dễ phối. ",
+        "price": 180000
+    },
+    {
+        "id": 72,
+        "cateId": "hats",
+        "img":[
+            "../../images/hats/BASIC_BEANIES.jpg"
+        ] ,
+        "name": "BASIC BEANIES",
+        "content":"Nón được dệt từ sợi Len và nỉ. Họa tiết được thêu nổi trên nón. Nón fit từ vòng đầu 50cm trở lên.",
+        "price": 100000
+    },
+    {
+        "id": 73,
+        "cateId": "hats",
+        "img":[
+            "../../images/hats/bucket_SCHDTX.jpg",
+            "../../images/hats/bucket_1.webp",
+            "../../images/hats/bucket_2.webp"
+        ] ,
+        "name": "bucket SCHDTX",
+        "content":"Toàn bộ phần thêu sử dụng chỉ ánh vàng và ánh bạc Metallic. Sử dụng vải cotton 14 với phối màu Off-white.  Form nón Asia Standard for Bucket 57cm (± 1 cm) với thiết kế vành nhỏ và dáng thẳng chứ không bè như các loại bucket thông thường.",
+        "price": 199000
+    },
+    {
+        "id": 74,
+        "cateId": "hats",
+        "img":[
+            "../../images/hats/Cloudy_Rainy_Bucket.jpg",
+            "../../images/hats/Cloudy_1.webp",
+            "../../images/hats/Cloudy_2.webp"
+        ] ,
+        "name": "Cloudy Rainy Bucket",
+        "content":"Một chiếc nón với hai mặt có thể thích thì đổi không thích thì đổi, chắc chắn mọi couple sẽ rất cần để thấu hiểu nhau hơn",
+        "price": 229000
+    },
+    {
+        "id": 75,
+        "cateId": "hats",
+        "img":[
+            "../../images/hats/Creamy_Jeju_Beanie.jpg",
+            "../../images/hats/Creamy_1.webp",
+            "../../images/hats/Creamy_2.jpg",
+            "../../images/hats/Creamy_3.jpg"
+        ] ,
+        "name": "Creamy Jeju Beaniet",
+        "content":"Một xứ sở Jeju trong mơ màu hồng đầy thơ mộng. Mỗi sản phẩm sẽ được tặng kèm một chiếc pin gài xinh xắn hình Thỏ con lon ton nha",
+        "price": 150000
+    },
+    {
+        "id": 76,
+        "cateId": "hats",
+        "img":[
+            "../../images/hats/Juicy_orange.jpg",
+            "../../images/hats/Juicy_1.webp",
+            "../../images/hats/Juicy_2.webp",
+            "../../images/hats/Juicy_3.webp"
+        ] ,
+        "name": "Juicy orange",
+        "content":"những chiếc nón len được làm bởi chính người Nhật, chất lượng Nhật, an toàn với sức khỏe, hand-feel tuyệt vời, và dĩ nhiên rồi, tinh tế trong từng chi tiết.",
+        "price": 149000
+    },
+    {
+        "id": 77,
+        "cateId": "hats",
+        "img":[
+            "../../images/hats/Da_Rizzle.jpg",
+            "../../images/hats/Rizzle_1.webp",
+            "../../images/hats/Rizzle_2.webp",
+            "../../images/hats/Rizzle_3.webp",
+            "../../images/hats/Rizzle_4.webp",
+            "../../images/hats/Rizzle_5.webp"
+        ] ,
+        "name": "Da Rizzle",
+        "content":"Linh hồn của văn hoá đường phố là giá trị thật /Da rizzle a.k.a. The real/: dám sống với chính con người mình, dám tới cùng với mơ ước, dám đi, dám thất bại, dám can đảm đương đầu.",
+        "price": 189000
+    },
+    {
+        "id": 78,
+        "cateId": "hats",
+        "img":[
+            "../../images/hats/Original_Cap.jpg"
+        ] ,
+        "name": "Original Cap",
+        "content":" Vải: cotton 14. Form: Asia Standard 6 múi 57cm (± 3 cm) giúp ôm khít và tăng giảm dễ dàng với từng kiểu đầu người đội.",
+        "price": 119000
+    },
+    {
+        "id": 79,
+        "cateId": "hats",
+        "img":[
+            "../../images/hats/Osaka_Cherry_Beanie.jpg"
+        ] ,
+        "name": "Osaka Cherry Beanie",
+        "content":"Quả mọng từ vùng Osaka sẽ khiến bất cứ trái tim nào cũng phải tan chảy. Mỗi sản phẩm sẽ được tặng kèm một chiếc pin gài xinh xắn hình Cherry baby",
+        "price": 150000
+    },
+    {
+        "id": 80,
+        "cateId": "hats",
+        "img":[
+            "../../images/hats/Santorini_Waves_Beanie.jpg",
+            "../../images/hats/Santorini_1.jpg",
+            "../../images/hats/Santorini_2.jpg",
+            "../../images/hats/Santorini_3.jpg"
+        ] ,
+        "name": "Santorini Waves Beanie",
+        "content":"Chiếc nón len lấy cảm hứng từ những ngọn sóng nơi Đảo Thiên đường. ",
+        "price": 150000
+    },
+    {
+        "id": 81,
+        "cateId": "hats",
+        "img":[
+            "../../images/hats/Stormy_Windy_Bucket.jpg",
+            "../../images/hats/Stormy_1.jpg",
+            "../../images/hats/Stormy_2.webp"
+        ] ,
+        "name": "Stormy Windy Bucket",
+        "content":"Mỗi lần ra đường là một lần đau đầu nghĩ xem hôm nay mặc sao cho xinh mà lại trendy, mặc gì phải ngầu nhưng cũng đáng yêu?? Thấu hiểu nỗi khổ tâm đó, Dorae-năm liền hô biến ra combo bảo bối “Nón lông thời tiết”, đáp ứng được tất tần tật mấy điều nhỏ nhỏ to to trong lòng Kiuties luôn 🤩",
+        "price": 229000
+    },
+    {
+        "id": 82,
+        "cateId": "hats",
+        "img":[
+            "../../images/hats/Single_Red_cap.jpg",
+            "../../images/hats/Single_1.webp",
+            "../../images/hats/Single_2.webp",
+            "../../images/hats/Single_3.webp"
+        ] ,
+        "name": "Single Red cap",
+        "content":"Thêu: chỉ đỏ. Vải: cotton 14 với phối màu Matte Black. Form nón: Asia Standard 6 múi 57cm (± 3 cm) giúp ôm khít và tăng giảm dễ dàng với từng kiểu đầu người đội.",
+        "price": 119000
+    },
+    {
+        "id": 83,
+        "cateId": "hats",
+        "img":[
+            "../../images/hats/Vietnamien.jpg",
+            "../../images/hats/Vietnamien_1.webp",
+            "../../images/hats/Vietnamien_2.webp",
+            "../../images/hats/Vietnamien_3.webp"
+        ] ,
+        "name": "Vietnamien Cap",
+        "content":"Toàn bộ phần thêu sử dụng chỉ ánh vàng Metallic Golden Floss AN-02. Sử dụng vải cotton 14 với phối màu Matte Black. Form nón Asia Standard 6 múi 57cm (± 3 cm) giúp ôm khít và tăng giảm dễ dàng với từng kiểu đầu người đội. Dòng chữ phía sau: Je suis fier mang ý nghĩa 'Tôi tự hào'.",
+        "price": 189000
+    },
+    {
+        "id": 84,
+        "cateId": "bags",
+        "img":[
+            "../../images/bags/Adventure_backpack.jpg",
+            "../../images/bags/Adventure_1.jpg",
+            "../../images/bags/Adventure_2.webp",
+            "../../images/bags/Adventure_3.webp",
+            "../../images/bags/Adventure_4.webp",
+            "../../images/bags/Adventure_5.webp"
+        ] ,
+        "name": "Adventure backpack",
+        "content":"Trọng lượng nhẹ: 650 gram. Apa:k 01 có kích thước 42 x 30 x 13.5cm (cao x ngang x rộng). Hệ thống quai đeo áp dụng công nghệ Đối kháng trọng lực a.k.a /Lite Anti-gravity Tech™/. Dày dặn hơn. Êm hơn. Hấp thụ chấn động tốt hơn. Ôm sát vai hơn. Thiết kế ngăn chính với thể tích chứa đồ lớn, và 3 ngăn phụ đối diện ngăn lap giúp sắp xếp gọn gàng đồ dùng đủ cho những chuyến đi 3-4 ngày. Toàn bộ balo được gia cố bằng đường đánh bọ, đảm bảo không bung chỉ, không sứt quai suốt thời gian sử dụng.",
+        "price": 469000
+    },
+    {
+        "id": 85,
+        "cateId": "bags",
+        "img":[
+            "../../images/bags/Urbanista_messenger_bag.jpg",
+            "../../images/bags/Urbanista_1.webp",
+            "../../images/bags/Urbanista_2.webp",
+            "../../images/bags/Urbanista_3.webp",
+            "../../images/bags/Urbanista_4.webp"
+        ] ,
+        "name": "Urbanista messenger bag",
+        "content":"Ngăn chính rộng với nhiều túi phụ. Đảm bảo chứa mọi thứ bạn cần, một cách ngăn nắp, cho cả ngày phiêu lưu trong thành phố. Ngăn chính vừa laptop. Thông số kích thước: 35 x 16 x 25cm (đáy ngang x dọc x cao). Ngang nắp: 41cm (nắp túi to hơn đáy). Dây đeo khi xả ra hết cỡ là 1m2. Thích hợp để đựng máy chụp hình + lens. Đựng được thêm số lượng lớn sách vở, bút viết, iPad, ví, phụ kiện, thậm chí áo khoác mỏng. Đi học, đi chơi là đúng bài.",
+        "price": 429000
+    },
+    {
+        "id": 86,
+        "cateId": "bags",
+        "img":[
+            "../../images/bags/SPACE_PROGRAM_CROSS_BAG.jpg"
+        ] ,
+        "name": "SPACE PROGRAM CROSS BAG ",
+        "content":"Toàn bộ thân túi được dùng vải canvas Korea. Phần miệng túi kết hợp nắp mở với velcro kèm zipper. Phần ngăn phụ trước túi được gia công vải lưới. Dây đeo có thể tùy chỉnh độ dài và có phản quang. ",
+        "price": 190000
+    },
+    {
+        "id": 87,
+        "cateId": "bags",
+        "img":[
+            "../../images/bags/LOGO_PATTERN_BOWLER_BAG_(WHITE).jpg"
+        ] ,
+        "name": "LOGO PATTERN BOWLER BAG (WHITE)",
+        "content":"Chất liệu da P.U nhập khẩu, được lót dù bên trong. Bể mặt sản phẩm được in nhủ vàng có độ bền cao. Túi có tay sách và dây đeo có thể tùy chỉnh độ dài.Khóa kéo YKK. 1 ngăn lớn chính và 1 ngăn  phụ phía trong. 1 ngăn phụ ở ngoài túi có khóa kéo. Kích thước túi: Dài x Rộng x Cao: 42cm x 21cm x 25cm.",
+        "price": 290000
+    },
+    {
+        "id": 88,
+        "cateId": "bags",
+        "img":[
+            "../../images/bags/LOGO_PATTERN_BOWLER_BAG_(OLIVE).jpg"
+        ] ,
+        "name": "LOGO PATTERN BOWLER BAG (OLIVE)",
+        "content":"Chất liệu da P.U nhập khẩu, được lót dù bên trong. Bể mặt sản phẩm được in nhủ vàng có độ bền cao. Túi có tay sách và dây đeo có thể tùy chỉnh độ dài.Khóa kéo YKK. 1 ngăn lớn chính và 1 ngăn  phụ phía trong. 1 ngăn phụ ở ngoài túi có khóa kéo. Kích thước túi: Dài x Rộng x Cao: 42cm x 21cm x 25cm.",
+        "price": 290000
+    },
+    {
+        "id": 89,
+        "cateId": "bags",
+        "img":[
+            "../../images/bags/K’Ho_Tote_bag.jpg",
+            "../../images/bags/K’Ho_1.webp"
+        ] ,
+        "name": "K’Ho Tote bag",
+        "content":"Dòng chữ K'Ho được in nhũ đá bạc với viền dạ quang (hấp thụ ánh sáng và phát sáng lại trong bóng tối).  Hoạ tiết da chồn hương được in ở cạnh đáy, gợi nhớ về những ngày xưa khi núi rừng còn rất nhiều loài vật đặc sản thơm ngon này, tổ tiên người K'Ho rất thích và muốn nhắc lại về sự tuyệt vời của loại thịt núi rừng ban tặng. Dây đeo sử dụng nhựa trong suốt cùng miếng lót vai là vải bố được in cùng hoạ tiết chồn hương như mặt đáy.",
+        "price": 400000
+    },
+    {
+        "id": 90,
+        "cateId": "bags",
+        "img":[
+            "../../images/bags/DIRTYCOINS_MINI_CROSSBODY_BAGS.jpg"
+        ] ,
+        "name": "DIRTYCOINS MINI CROSSBODY BAGS",
+        "content":"Chất liệu túi làm từ vải bố. 1 Ngăn lớn, 1 ngăn nhỏ. Dây đeo không tháo rời (có thể tùy chỉnh độ dài). Tag cao su được may trực tiếp vào túi. Kích thước sản phẩm : Cao 30cm/Ngang 24cm/Dày 11cm. Kích thước dây đeo: 60cm-120cm (tùy chỉnh).",
+        "price": 290000
+    },
+    {
+        "id": 91,
+        "cateId": "pants",
+        "img":[
+            "../../images/pant/Cargo_B-mov.webp",
+            "../../images/pant/Cargo_1.webp",
+            "../../images/pant/Cargo_2.webp",
+            "../../images/pant/Cargo_3.webp",
+            "../../images/pant/Cargo_4.jpg"
+        ] ,
+        "name": "Cargo B-mov",
+        "content":"Hai box logo thay đổi được. Đen cho lowkey. TPU cho sự nổi bật. Túi ẩn bên hông phải với khoá kéo YKK. Đảm bảo an toàn cho những món đồ quý giá của bạn.",
+        "price": 490000
+    },
+    {
+        "id": 92,
+        "cateId": "pants",
+        "img":[
+            "../../images/pant/Dirtycoins_Cargo_Pants(Red).jpg"
+        ] ,
+        "name": "Dirtycoins Cargo Pants (Red)",
+        "content":"Quần được làm từ chất liệu dù. Form quần rộng. Lưng quần và ống quần được bo thun. Lưng quần được trang bị dây rút tùy chỉnh độ rộng. Quần sở hữu lên đến 6 túi có nút bấm an toàn.",
+        "price": 490000
+    },
+    {
+        "id": 93,
+        "cateId": "pants",
+        "img":[
+            "../../images/pant/Dirtycoins_Cargo_Pants(YELLOW).jpg"
+        ] ,
+        "name": "Dirtycoins Cargo Pants (YELLOW)",
+        "content":"Quần được làm từ chất liệu dù. Form quần rộng. Lưng quần và ống quần được bo thun. Lưng quần được trang bị dây rút tùy chỉnh độ rộng. Quần sở hữu lên đến 6 túi có nút bấm an toàn.",
+        "price": 490000
+    },
+    {
+        "id": 94,
+        "cateId": "pants",
+        "img":[
+            "../../images/pant/Dirtycoins_Shine_String_Pants(White).jpg"
+        ] ,
+        "name": "Dirtycoins Shine String Pants (White)",
+        "content":"Quần được làm từ chất liệu dù. Form quần rộng. Lưng quần được trang bị bo thun + dây rút tùy chỉnh độ rộng. Ống quần có dây rút tùy chỉnh độ ôm. Quần sở hữu lên đến 6 túi có nút bấm an toàn.",
+        "price": 490000
+    },
+    {
+        "id": 95,
+        "cateId": "pants",
+        "img":[
+            "../../images/pant/Urban_Jungle.jpg",
+            "../../images/pant/Urban_1.jpeg",
+            "../../images/pant/Urban_2.jpeg",
+            "../../images/pant/Urban_3.png",
+            "../../images/pant/Urban_5.png",
+            "../../images/pant/Urban_4.png"
+            
+        ] ,
+        "name": "Urban Jungle",
+        "content":"Hệ thống túi tái cấu trúc vị trí và thiết kế, với túi đùi trái sử dụng dây kéo âm bản và túi vuông ở cổ chân trái được thiết kế riêng cho việc sử dụng đựng-lấy đồ khi bạn trong tư thế ngồi. Hệ thống dây khoá cổ chân thay thế hệ thống velcro, nhằm mục đích khít ống quần với tất cả kích cỡ ống chân khác nhau của từng người. Thắt lưng sử dụng hệ thống con đỉa thay cho đai thun, để bạn sử dụng dây nịt, tạo sự chắc chắn và ôm khít cao hơn trong các hoạt động thể chất mạnh ngoài trời. Đầu gối mỗi bên được thiết kế một ngăn trống cửa dưới, với công năng rất đặc biệt, sẽ được bật mí trong những ngày sắp tới.",
+        "price": 650000
+    }
+]
