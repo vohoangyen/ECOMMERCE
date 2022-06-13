@@ -87,7 +87,7 @@ function NewArrivals() {
                 <div className='container'>
                     <Row className='banner-row'>
                         <Col id="img" className='col-banner1'>
-                            <NavLink to="/t-shirts">
+                            <NavLink to="/tshirts">
                                 <img src="./images/t_shirt.png" alt='banner' className='img-banner'/> 
                                 <div className="txt">
                                     <h5>SMCU T-Shirts</h5>
